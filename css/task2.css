@@ -1,0 +1,11 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.blog h1 {
+    text-align: center;
+}
+
+.blog img {
+    width: 160px;
+}
